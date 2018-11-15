@@ -1,5 +1,6 @@
 Bust a Move
 by William Elmes
+5/7/2010
 
 The program will open with the main menu. Hitting a number key corresponding to an option will take you to that option.
 1 Starts a new game
